@@ -1,7 +1,8 @@
 # Mario-Terminal-Game
 
-#### DEVELOPER
-PRAZWAL CHHABRA
+# DEVELOPER
+Prazwal Chhabra
+
 # Running the game
 	* To run the game enter the command in the directory of the game:
 			python3 main.py
